@@ -1,0 +1,13 @@
+adblocker-ai/
+├── manifest.json
+├── background.js
+├── content.js
+├── worker.js
+├── popup.html
+├── popup.js
+├── styles.css
+├── model/
+│   ├── model.json
+│   └── weights.bin
+├── tfjs.js (or use CDN)
+└── icon.png (16x16 or 32x32)
